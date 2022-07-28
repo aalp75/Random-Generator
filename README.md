@@ -1,15 +1,15 @@
-Implementation usual law generator
+# Random Generator
 
-# Uniform Law 
+## Uniform Law 
 
 LCG and MT-19937
 
-# Usual Discrete Law
+## Usual Discrete Law
 
-# Usual Continue Law
+## Usual Continue Law
 
-# Metropolis Hastings
+## Metropolis Hastings
 
-# Statistical test
+## Statistical test
 
 Chi-deux and Kolmogorov test
